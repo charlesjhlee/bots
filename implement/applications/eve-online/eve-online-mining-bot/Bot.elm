@@ -104,7 +104,7 @@ import Result.Extra
 defaultBotSettings : BotSettings
 defaultBotSettings =
     { runAwayShieldHitpointsThresholdPercent = 70
-    , unloadStationName = Nothing
+    , unloadStationName = "Akhwa II - Moon 1 - Hedion University"
     , unloadStructureName = Nothing
     , unloadFleetHangarPercent = -1
     , unloadMiningHoldPercent = 99
